@@ -1,0 +1,4 @@
+- DOMAIN,map.baidu.com,Domestic
+- DOMAIN-KEYWORD,kotobank.jp,Domestic
+- DOMAIN-KEYWORD,bilibili.com,Domestic
+- DOMAIN-SUFFIX,baidu.com,Domestic
