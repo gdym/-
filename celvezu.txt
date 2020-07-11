@@ -2,3 +2,5 @@
 - DOMAIN-KEYWORD,kotobank.jp,Domestic
 - DOMAIN-KEYWORD,bilibili.com,Domestic
 - DOMAIN-SUFFIX,baidu.com,Domestic
+- DOMAIN-KEYWORD,tencent,Domestic
+- DOMAIN-KEYWORD,tb.alicdn.com,Domestic
