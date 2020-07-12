@@ -4,3 +4,6 @@
 - DOMAIN-SUFFIX,baidu.com,Domestic
 - DOMAIN-KEYWORD,tencent,Domestic
 - DOMAIN-KEYWORD,tb.alicdn.com,Domestic
+- DOMAIN-KEYWORD,mi.com,Domestic
+- DOMAIN-KEYWORD,alipay.com,Domestic
+- DOMAIN-KEYWORD,qq.com,Domestic
