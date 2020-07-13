@@ -7,3 +7,5 @@
 - DOMAIN-KEYWORD,mi.com,Domestic
 - DOMAIN-KEYWORD,alipay.com,Domestic
 - DOMAIN-KEYWORD,qq.com,Domestic
+- DOMAIN-KEYWORD,weibo.com,Domestic
+- DOMAIN-KEYWORD,jd.com,Domestic
