@@ -9,3 +9,7 @@
 - DOMAIN-KEYWORD,qq.com,Domestic
 - DOMAIN-KEYWORD,weibo.com,Domestic
 - DOMAIN-KEYWORD,jd.com,Domestic
+- DOMAIN-KEYWORD,amap.com,Domestic
+- DOMAIN-KEYWORD,acfun.cn,Domestic
+- DOMAIN-KEYWORD,youonbike.com,Domestic
+- DOMAIN-KEYWORD,yicbc.com.cn,Domestic
