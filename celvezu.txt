@@ -13,3 +13,5 @@
 - DOMAIN-KEYWORD,acfun.cn,Domestic
 - DOMAIN-KEYWORD,youonbike.com,Domestic
 - DOMAIN-KEYWORD,yicbc.com.cn,Domestic
+- DOMAIN-KEYWORD,blizzard,Domestic
+- DOMAIN-KEYWORD,battlenet,Domestic
